@@ -5,10 +5,6 @@ Try things like "How is the weather in Mumbai?" or "Tell me a management quote?"
 
 Next feature: Generic FB message for stocks!
 Next feature2: Reminders!
-### Example
-
-- Say Hi to [Poncho](https://m.me/hiponcho)
-- Read News from [CNN](https://m.me/CNN)
 
 ### Getting Started
 
