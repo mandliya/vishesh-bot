@@ -1,7 +1,10 @@
-![Eve](eve.png)
-
 A simple bot to work with the new [Facebook Messenger API](https://messengerplatform.fb.com/), using [Wit.ai](https://wit.ai).
+It right now tells you weather and gives you an inspiring quote. It is still learning.
 
+Try things like "How is the weather in Mumbai?" or "Tell me a management quote?"
+
+Next feature: Generic FB message for stocks!
+Next feature2: Reminders!
 ### Example
 
 - Say Hi to [Poncho](https://m.me/hiponcho)
