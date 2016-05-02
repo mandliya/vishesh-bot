@@ -54,4 +54,4 @@ git push heroku master
 
 This software is free and open source, distributed under the The MIT License. So feel free to use this without linking back to me or using a disclaimer.
 
-If you’d like to give me credit somewhere on your blog or tweet a shout out to [@willian_justen](https://twitter.com/willian_justen), that would be pretty sweet.
+Initial bot tutorial and set up is using  [@willian_justen](https://twitter.com/willian_justen) bot tutorial.
